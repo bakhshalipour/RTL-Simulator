@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RTLSimulatorV1.0.exe" version="1.0.0.4" publicKeyToken="7e6c02a56ab0ace2" language="en" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RTLSimulatorV1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="RTLSimulatorV1.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RTLSimulatorV1.0.exe" size="2235392">
+      <assemblyIdentity name="RTLSimulatorV1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>w5HakQx8/TAx3R1nB63Ej2UyJXRFmZC1FmUa+2NR/8w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="RTLSimulatorV1.0.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fzxBSr45tumrN8SNWWL0IeqRlxoh8+san/F4n6/GZJ4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=KasraaPC\Kasraa" issuerKeyHash="877b3d9bbbdff696511817c0ceda9073f971932f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>IjmelfV9fgO8sNr4lPF+0F8MsUkXyigFYlNsdkDDyZk=</DigestValue></Reference></SignedInfo><SignatureValue>mMjTV3q6RyyEFlX0F/Tx2TiRb8Sd0NCsvuq6XbzjTmNa6tyCLEzOW1X0/KDJtXXCivtQX82+u3HIIT57C3tNdezedwzH8cHGJkIhcFdNc25XcX30MqzOSTx5dZPZA+bNsSOeK5o9TJO+iwEuQvXR7Cxp47zi5sc0ccKvVOws1FE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>o+yMXH6UB6tZ3z/uDNVbouG6LM4DwluhwZysgBvVV6h3IXxSzvdBADEMvAhb815rF9qZnTqlmO0yikxY2GuPfgTGTPqdUrgOBGtSpv8Oozv4sx6+Vhp5QhuhiClRI7EBu6LeuqbdAu1SJlQ+hKhS1i5S0MSMi/1wGvf4OWfwcec=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="99c9c340766c53620528ca1749b10c5fd07ef194f8dab0bc037e7df5959e3922" Description="" Url=""><as:assemblyIdentity name="RTLSimulatorV1.0.exe" version="1.0.0.4" publicKeyToken="7e6c02a56ab0ace2" language="en" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KasraaPC\Kasraa</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>n5VdFJ3393qGR2PxSpK1G+XO5BblECTMnlavwOn2YfM=</DigestValue></Reference></SignedInfo><SignatureValue>EdGFmtXjC7ArJHUplyYaKnTucPqHs0C4N7Xn/Yv1dez/77wLokrZ5jOxAeShdKvyFLILSVwxPmBOIvxzUCgXSrdaGNQa1RMNJgLmqIzjUF/RrAYTCU/sjy3o8cnpHP5tfU/cqVwwaJH1uvQnBZ8EVGcpRiLUgUJrxkPzTqU2AkA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>o+yMXH6UB6tZ3z/uDNVbouG6LM4DwluhwZysgBvVV6h3IXxSzvdBADEMvAhb815rF9qZnTqlmO0yikxY2GuPfgTGTPqdUrgOBGtSpv8Oozv4sx6+Vhp5QhuhiClRI7EBu6LeuqbdAu1SJlQ+hKhS1i5S0MSMi/1wGvf4OWfwcec=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQLiJeU0tCTZNBVVOdQqUL6jANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ASwBhAHMAcgBhAGEAUABDAFwASwBhAHMAcgBhAGEwHhcNMTQwNzE0MjI0NjE5WhcNMTUwNzE1MDQ0NjE5WjApMScwJQYDVQQDHh4ASwBhAHMAcgBhAGEAUABDAFwASwBhAHMAcgBhAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKPsjFx+lAerWd8/7gzVW6LhuizOA8JbocGcrIAb1VeodyF8Us73QQAxDLwIW/NeaxfamZ06pZjtMopMWNhrj34Exkz6nVK4DgRrUqb/DqM7+LMevlYaeUIboYgpUSOxAbui3rqm3QLtUiZUPoSoUtYuUtDEjIv9cBr3+Dln8HHnAgMBAAEwDQYJKoZIhvcNAQELBQADgYEARZ1A6fl5EU4cf2A94NzTchs4sxt+wb6K28CkJqWyDtOUg7qoEiVq9uRFgWT6wvNTYXc+9GomWjPf+OMQmkhJAp2aaE9K+zdyBzwLi5i1CzZTGcU0RWfGRYcc9H5Y8/x3cFY4FHTPYr1t6AUv1zo9+kb7erfmjjmW4dHbhWgZ8xg=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

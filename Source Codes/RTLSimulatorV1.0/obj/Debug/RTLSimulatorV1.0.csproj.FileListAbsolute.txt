@@ -1,0 +1,21 @@
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\bin\Debug\RTLSimulatorV1.0.exe.config
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\bin\Debug\RTLSimulatorV1.0.exe
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\bin\Debug\RTLSimulatorV1.0.pdb
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1._0.Properties.Resources.resources
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1.0.csproj.GenerateResource.Cache
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1.0.exe
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1.0.pdb
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1._0.RTLSimulator.resources
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1.0.csprojResolveAssemblyReference.cache
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1._0.RTLSimulatorIDE.resources
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1._0.Form3.resources
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1._0.Form4.resources
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1._0.Form5.resources
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1._0.Form6.resources
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\bin\Debug\RTLSimulatorV1.0.exe.manifest
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\bin\Debug\RTLSimulatorV1.0.application
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1.0.exe.manifest
+E:\Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1.0.application
+C:\Backup before make ext-hard bootable\Semesters Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\bin\Debug\RTLSimulatorV1.0.exe.config
+C:\Backup before make ext-hard bootable\Semesters Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1.0.exe
+C:\Backup before make ext-hard bootable\Semesters Archive\Extra\RTLSimulatorV1.0\RTLSimulatorV1.0\RTLSimulatorV1.0\obj\Debug\RTLSimulatorV1.0.pdb
