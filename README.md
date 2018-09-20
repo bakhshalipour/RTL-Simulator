@@ -2,7 +2,7 @@
 
 Register Transfer Language (RTL) is a kind of intermediate representation (IR) that is used as an architecture-neutral assembly language. 
 
-This software provides simulation, debugging, and generating synthesizable HDL code for an RTL code. All RT operations are supported. The software offers rich GUI and is quite easy to use. Meanwhile, it is slightly slow, since the performance was not the primary consideration of this project. 
+This software provides simulation, debugging, and generating synthesizable HDL code for an RTL specification. All RT operations are supported. The software offers a rich GUI and is quite easy-to-use. Meanwhile, it is slightly slow since the performance is not the primary consideration of this project. 
 
 Please refer to [User's Manual](https://github.com/bakhshalipour/RTL-Simulator/blob/master/User's%20Manual.pdf) for more information.
 
